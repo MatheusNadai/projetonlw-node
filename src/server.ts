@@ -1,5 +1,6 @@
 import express, { request } from "express";
 
+import "./database";
 
 const app = express();
 
